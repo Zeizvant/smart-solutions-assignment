@@ -1,0 +1,13 @@
+.table-cell{
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.table-data-cell{
+    width: 25%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
